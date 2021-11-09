@@ -1,1 +1,1 @@
-# ISTM6213_Cloud_Appllications
+# ISTM6213_Cloud_Applications
